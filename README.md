@@ -1,2 +1,2 @@
 # PyCharm
-my first Python
+my first Python code
