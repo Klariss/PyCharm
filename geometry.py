@@ -31,3 +31,4 @@ def square_perimeter(side):
 # square area
 def square_area(side):
     return side ** 2
+
